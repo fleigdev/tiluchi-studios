@@ -1,0 +1,24 @@
+/*
+
+1. Add your custom Css styles below
+2. Place the this code in your template:
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+
+/* XML */
+/* <palette>
+  <color name="Rust" hex="AF3200" r="175" g="50" b="0" />
+  <color name="Rust" hex="B83C00" r="184" g="60" b="0" />
+  <color name="Mahogany" hex="C04600" r="192" g="70" b="0" />
+  <color name="Burnt Orange" hex="C95000" r="201" g="80" b="0" />
+  <color name="Tenne Tawny" hex="D25A00" r="210" g="90" b="0" />
+  <color name="Chocolate Web" hex="DA6400" r="218" g="100" b="0" />
+  <color name="Chocolate Web" hex="E36E00" r="227" g="110" b="0" />
+</palette> */
+
+.bg-orange {
+  background-color: #B83C00;
+}
